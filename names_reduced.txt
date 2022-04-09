@@ -1,0 +1,24 @@
+# the first 20 most popular names in Ireland.
+# on even lines, the 10 most popular men names
+# on odd lines, the 10 most popular women names
+Jack
+Fiadh
+Noah
+Grace
+James
+Emily
+Conor
+Sophie
+Rian
+Eabha
+Liam
+Lucy
+Charlie
+Mia
+Daniel
+Ava
+Cillian
+Lily
+Tadhg
+Ella
+# this line is a comment and will not be stored
