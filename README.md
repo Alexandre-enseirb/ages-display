@@ -1,8 +1,8 @@
 # ages-display
 
-This repository was created to share the code of a small Python script that uses the request library to make requests to the agify.io library.
+This repository was created to share the code of a small Python script that uses the request library to make requests to the agify.io API.
 
-### Link to the library: ![agify.io](https://agify.io/)
+### Link to the API: ![agify.io](https://agify.io/)
 
 ### How to use
 
